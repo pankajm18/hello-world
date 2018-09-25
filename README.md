@@ -1,7 +1,8 @@
 # hello-world
 A simple repo
 
-// C function for extended Euclidean Algorithm 
+Extended Euclid's Algorithm
+
 int gcdExtended(int a, int b, int *x, int *y) 
 { 
     
